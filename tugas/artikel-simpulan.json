@@ -1,0 +1,918 @@
+[
+  {
+    "kata": "Nama",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Indonesia",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "kembali",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "harum",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "di",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "kancah",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "internasional",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Sebanyak",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "4",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "siswa",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "yang",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "tergabung",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "dalam",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Tim",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Olimpiade",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Biologi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "berhasil",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "membawa",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "emas",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "perak",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "dan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "perunggu",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "dari",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "kompetisi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "International",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Biology",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Olympiad",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "IBO",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Aarhus",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Denmark",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "12-19",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Juli",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "lalu",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "itu",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "terdiri",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "Maria",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Patricia",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Inggriani",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "SMA",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Kharisma",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Bangsa",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "peraih",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "medali",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "Valdi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Ven",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Japranata",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Kristen",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "IPEKA",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Sunter",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Hana",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Fauzyyah",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Hanidin",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Semesta",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "Semarang",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "Nagita",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Gianty",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Annisa",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "MAN",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Insan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Cendekia",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Atas",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "prestasi",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "ditorehnya",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "pun",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "sore",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "ini",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "rombongan",
+    "jenis": "Afiksasi Sufiks"
+  },
+  {
+    "kata": "Kementerian",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "Pendidikan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Kebudayaan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "menyambut",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "keempatnya",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Bandara",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Soekarno-Hatta",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Tangerang",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Senin",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "20/7/2015",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "tiba",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "sekitar",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "pukul",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "1645",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "WIB",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Tak",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "hanya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "keluarga",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "juga",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "sahabat",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "dengan",
+    "jenis": "Afiksasi Sufiks"
+  },
+  {
+    "kata": "riang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "para",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "juara",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Kasubdit",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Kelembagaan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "Peserta",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Didik",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Kemendikbud",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Suharlan",
+    "jenis": "Afiksasi Sufiks"
+  },
+  {
+    "kata": "menyematkan",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "kalung",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "bunga",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "kepada",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "keempat",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "satu",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "per",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Senyum",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "mengembang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "tergambar",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "jelas",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "wajah",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "mereka",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Termasuk",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "kedua",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "orang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "tua",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Suryawan",
+    "jenis": "Afiksasi Sufiks"
+  },
+  {
+    "kata": "53",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Ninik",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "52",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Perasaan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "bangga",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "serta",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "haru",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Senang",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "lah",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Nggak",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "nyangka",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "pokoknya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "SMP",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "sudah",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "dapat",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "nasional",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "bukan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "pertama",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "kalinya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "dia",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "kata",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "saat",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "berbincang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Pria",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "berprofesi",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "sebagai",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "wiraswasta",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "berharap",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "ke",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "depannya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "kawan-kawannya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "tetap",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "rendah",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "hati",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "jumawa",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Agar",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "ilmu",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "dimilikinya",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "bisa",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "berguna",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "bagi",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "negara",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "masa",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "akan",
+    "jenis": "Afiksasi Sufiks"
+  },
+  {
+    "kata": "datang",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Jadi",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "baik",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "pesannya",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "merupakan",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "ajang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "lomba",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "rutin",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "diadakan",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "setiap",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "tahun",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "sana",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "tersebut",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "menjalani",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "tes",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "praktikum",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "teori",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "bidang",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Terdapat",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "empat",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "topik",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "harus",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "selesaikan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "selama",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "90",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "menit",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "yakni",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "tentang",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Mikrobiologi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Molekuler;",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Anatomi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Sistematik",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Evolusi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Tumbuhan;",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Morfologi",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Fungsional",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Hewan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Biokimia",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "perwakilan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "berkompetisi",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "241",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "61",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "bentuk",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "penghargaan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "pemerintah",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "memberikan",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "beasiswa",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "penuh",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "untuk",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "melanjutkan",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "perguruan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "tinggi",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "masing-masing",
+    "jenis": "Reduplikasi Kata Dasar"
+  },
+  {
+    "kata": "Khusus",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "ditanggung",
+    "jenis": "Afiksasi Prefiks"
+  },
+  {
+    "kata": "sampai",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "doktoral",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "S3",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "sementara",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "pascasarjana",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "S2",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "artinya",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Fakultas",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Kedokteran",
+    "jenis": "Kata dasar"
+  },
+  {
+    "kata": "Universitas",
+    "jenis": "Afiksasi Infiks"
+  },
+  {
+    "kata": "Gadjah",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "Mada",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "UGM",
+    "jenis": "N/A (Tidak diketahui)"
+  },
+  {
+    "kata": "sedangkan",
+    "jenis": "Afiksasi konfiksasi"
+  },
+  {
+    "kata": "UI",
+    "jenis": "N/A (Tidak diketahui)"
+  }
+]

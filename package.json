@@ -1,0 +1,17 @@
+{
+  "name": "tugas-sasin-20212911",
+  "version": "1.0.0",
+  "description": "Tugas bahasa dan sastra indonesia kelas x bahasa tanggal 29 november 2021",
+  "scripts": {
+    "test": "node tugas/artikel.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reacto11mecha/tugas-sasin-20212911.git"
+  },
+  "author": "Ezra Khairan Permana",
+  "bugs": {
+    "url": "https://github.com/reacto11mecha/tugas-sasin-20212911/issues"
+  },
+  "homepage": "https://github.com/reacto11mecha/tugas-sasin-20212911#readme"
+}

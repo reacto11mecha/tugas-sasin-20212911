@@ -1,0 +1,686 @@
+Kata: Nama
+Jenis: Kata dasar
+
+Kata: Indonesia
+Jenis: N/A (Tidak diketahui)
+
+Kata: kembali
+Jenis: Kata dasar
+
+Kata: harum
+Jenis: N/A (Tidak diketahui)
+
+Kata: di
+Jenis: Kata dasar
+
+Kata: kancah
+Jenis: N/A (Tidak diketahui)
+
+Kata: internasional
+Jenis: Kata dasar
+
+Kata: Sebanyak
+Jenis: Afiksasi Prefiks
+
+Kata: 4
+Jenis: N/A (Tidak diketahui)
+
+Kata: siswa
+Jenis: Kata dasar
+
+Kata: yang
+Jenis: N/A (Tidak diketahui)
+
+Kata: tergabung
+Jenis: Afiksasi Prefiks
+
+Kata: dalam
+Jenis: Kata dasar
+
+Kata: Tim
+Jenis: Kata dasar
+
+Kata: Olimpiade
+Jenis: N/A (Tidak diketahui)
+
+Kata: Biologi
+Jenis: N/A (Tidak diketahui)
+
+Kata: berhasil
+Jenis: Kata dasar
+
+Kata: membawa
+Jenis: Kata dasar
+
+Kata: emas
+Jenis: Kata dasar
+
+Kata: perak
+Jenis: Kata dasar
+
+Kata: dan
+Jenis: Kata dasar
+
+Kata: perunggu
+Jenis: Afiksasi Prefiks
+
+Kata: dari
+Jenis: Kata dasar
+
+Kata: kompetisi
+Jenis: N/A (Tidak diketahui)
+
+Kata: International
+Jenis: Afiksasi Infiks
+
+Kata: Biology
+Jenis: N/A (Tidak diketahui)
+
+Kata: Olympiad
+Jenis: N/A (Tidak diketahui)
+
+Kata: IBO
+Jenis: N/A (Tidak diketahui)
+
+Kata: Aarhus
+Jenis: N/A (Tidak diketahui)
+
+Kata: Denmark
+Jenis: N/A (Tidak diketahui)
+
+Kata: 12-19
+Jenis: N/A (Tidak diketahui)
+
+Kata: Juli
+Jenis: N/A (Tidak diketahui)
+
+Kata: lalu
+Jenis: Kata dasar
+
+Kata: itu
+Jenis: Kata dasar
+
+Kata: terdiri
+Jenis: Afiksasi Prefiks
+
+Kata: Maria
+Jenis: N/A (Tidak diketahui)
+
+Kata: Patricia
+Jenis: N/A (Tidak diketahui)
+
+Kata: Inggriani
+Jenis: N/A (Tidak diketahui)
+
+Kata: SMA
+Jenis: N/A (Tidak diketahui)
+
+Kata: Kharisma
+Jenis: N/A (Tidak diketahui)
+
+Kata: Bangsa
+Jenis: Kata dasar
+
+Kata: peraih
+Jenis: Afiksasi Prefiks
+
+Kata: medali
+Jenis: Afiksasi Prefiks
+
+Kata: Valdi
+Jenis: N/A (Tidak diketahui)
+
+Kata: Ven
+Jenis: N/A (Tidak diketahui)
+
+Kata: Japranata
+Jenis: N/A (Tidak diketahui)
+
+Kata: Kristen
+Jenis: N/A (Tidak diketahui)
+
+Kata: IPEKA
+Jenis: N/A (Tidak diketahui)
+
+Kata: Sunter
+Jenis: N/A (Tidak diketahui)
+
+Kata: Hana
+Jenis: N/A (Tidak diketahui)
+
+Kata: Fauzyyah
+Jenis: N/A (Tidak diketahui)
+
+Kata: Hanidin
+Jenis: N/A (Tidak diketahui)
+
+Kata: Semesta
+Jenis: Afiksasi Prefiks
+
+Kata: Semarang
+Jenis: Afiksasi Prefiks
+
+Kata: Nagita
+Jenis: N/A (Tidak diketahui)
+
+Kata: Gianty
+Jenis: N/A (Tidak diketahui)
+
+Kata: Annisa
+Jenis: N/A (Tidak diketahui)
+
+Kata: MAN
+Jenis: N/A (Tidak diketahui)
+
+Kata: Insan
+Jenis: Kata dasar
+
+Kata: Cendekia
+Jenis: N/A (Tidak diketahui)
+
+Kata: Atas
+Jenis: Kata dasar
+
+Kata: prestasi
+Jenis: Kata dasar
+
+Kata: ditorehnya
+Jenis: Afiksasi Prefiks
+
+Kata: pun
+Jenis: Kata dasar
+
+Kata: sore
+Jenis: N/A (Tidak diketahui)
+
+Kata: ini
+Jenis: Kata dasar
+
+Kata: rombongan
+Jenis: Afiksasi Sufiks
+
+Kata: Kementerian
+Jenis: Afiksasi konfiksasi
+
+Kata: Pendidikan
+Jenis: Kata dasar
+
+Kata: Kebudayaan
+Jenis: Kata dasar
+
+Kata: menyambut
+Jenis: Afiksasi Prefiks
+
+Kata: keempatnya
+Jenis: Afiksasi Infiks
+
+Kata: Bandara
+Jenis: Kata dasar
+
+Kata: Soekarno-Hatta
+Jenis: N/A (Tidak diketahui)
+
+Kata: Tangerang
+Jenis: Afiksasi Infiks
+
+Kata: Senin
+Jenis: Afiksasi Prefiks
+
+Kata: 20/7/2015
+Jenis: N/A (Tidak diketahui)
+
+Kata: tiba
+Jenis: N/A (Tidak diketahui)
+
+Kata: sekitar
+Jenis: Afiksasi Prefiks
+
+Kata: pukul
+Jenis: Kata dasar
+
+Kata: 1645
+Jenis: N/A (Tidak diketahui)
+
+Kata: WIB
+Jenis: N/A (Tidak diketahui)
+
+Kata: Tak
+Jenis: Kata dasar
+
+Kata: hanya
+Jenis: N/A (Tidak diketahui)
+
+Kata: keluarga
+Jenis: Kata dasar
+
+Kata: juga
+Jenis: Kata dasar
+
+Kata: sahabat
+Jenis: Kata dasar
+
+Kata: dengan
+Jenis: Afiksasi Sufiks
+
+Kata: riang
+Jenis: Kata dasar
+
+Kata: para
+Jenis: Kata dasar
+
+Kata: juara
+Jenis: N/A (Tidak diketahui)
+
+Kata: Kasubdit
+Jenis: N/A (Tidak diketahui)
+
+Kata: Kelembagaan
+Jenis: Afiksasi konfiksasi
+
+Kata: Peserta
+Jenis: Kata dasar
+
+Kata: Didik
+Jenis: Kata dasar
+
+Kata: Kemendikbud
+Jenis: Afiksasi Infiks
+
+Kata: Suharlan
+Jenis: Afiksasi Sufiks
+
+Kata: menyematkan
+Jenis: Afiksasi Prefiks
+
+Kata: kalung
+Jenis: Kata dasar
+
+Kata: bunga
+Jenis: Kata dasar
+
+Kata: kepada
+Jenis: Kata dasar
+
+Kata: keempat
+Jenis: Afiksasi Infiks
+
+Kata: satu
+Jenis: Kata dasar
+
+Kata: per
+Jenis: Kata dasar
+
+Kata: Senyum
+Jenis: Kata dasar
+
+Kata: mengembang
+Jenis: Kata dasar
+
+Kata: tergambar
+Jenis: Afiksasi Prefiks
+
+Kata: jelas
+Jenis: Afiksasi Infiks
+
+Kata: wajah
+Jenis: Kata dasar
+
+Kata: mereka
+Jenis: Kata dasar
+
+Kata: Termasuk
+Jenis: Afiksasi Prefiks
+
+Kata: kedua
+Jenis: N/A (Tidak diketahui)
+
+Kata: orang
+Jenis: Kata dasar
+
+Kata: tua
+Jenis: Kata dasar
+
+Kata: Suryawan
+Jenis: Afiksasi Sufiks
+
+Kata: 53
+Jenis: N/A (Tidak diketahui)
+
+Kata: Ninik
+Jenis: N/A (Tidak diketahui)
+
+Kata: 52
+Jenis: N/A (Tidak diketahui)
+
+Kata: Perasaan
+Jenis: Afiksasi konfiksasi
+
+Kata: bangga
+Jenis: N/A (Tidak diketahui)
+
+Kata: serta
+Jenis: Kata dasar
+
+Kata: haru
+Jenis: N/A (Tidak diketahui)
+
+Kata: Senang
+Jenis: Afiksasi Prefiks
+
+Kata: lah
+Jenis: N/A (Tidak diketahui)
+
+Kata: Nggak
+Jenis: N/A (Tidak diketahui)
+
+Kata: nyangka
+Jenis: N/A (Tidak diketahui)
+
+Kata: pokoknya
+Jenis: N/A (Tidak diketahui)
+
+Kata: SMP
+Jenis: N/A (Tidak diketahui)
+
+Kata: sudah
+Jenis: Kata dasar
+
+Kata: dapat
+Jenis: Kata dasar
+
+Kata: nasional
+Jenis: N/A (Tidak diketahui)
+
+Kata: bukan
+Jenis: Kata dasar
+
+Kata: pertama
+Jenis: Kata dasar
+
+Kata: kalinya
+Jenis: N/A (Tidak diketahui)
+
+Kata: dia
+Jenis: Afiksasi Prefiks
+
+Kata: kata
+Jenis: Kata dasar
+
+Kata: saat
+Jenis: N/A (Tidak diketahui)
+
+Kata: berbincang
+Jenis: Kata dasar
+
+Kata: Pria
+Jenis: N/A (Tidak diketahui)
+
+Kata: berprofesi
+Jenis: Kata dasar
+
+Kata: sebagai
+Jenis: Afiksasi Prefiks
+
+Kata: wiraswasta
+Jenis: Kata dasar
+
+Kata: berharap
+Jenis: Afiksasi Infiks
+
+Kata: ke
+Jenis: Kata dasar
+
+Kata: depannya
+Jenis: N/A (Tidak diketahui)
+
+Kata: kawan-kawannya
+Jenis: N/A (Tidak diketahui)
+
+Kata: tetap
+Jenis: Kata dasar
+
+Kata: rendah
+Jenis: Kata dasar
+
+Kata: hati
+Jenis: Kata dasar
+
+Kata: jumawa
+Jenis: N/A (Tidak diketahui)
+
+Kata: Agar
+Jenis: N/A (Tidak diketahui)
+
+Kata: ilmu
+Jenis: Kata dasar
+
+Kata: dimilikinya
+Jenis: Afiksasi Prefiks
+
+Kata: bisa
+Jenis: N/A (Tidak diketahui)
+
+Kata: berguna
+Jenis: Afiksasi Infiks
+
+Kata: bagi
+Jenis: Kata dasar
+
+Kata: negara
+Jenis: Kata dasar
+
+Kata: masa
+Jenis: Kata dasar
+
+Kata: akan
+Jenis: Afiksasi Sufiks
+
+Kata: datang
+Jenis: N/A (Tidak diketahui)
+
+Kata: Jadi
+Jenis: Kata dasar
+
+Kata: baik
+Jenis: Kata dasar
+
+Kata: pesannya
+Jenis: Afiksasi Prefiks
+
+Kata: merupakan
+Jenis: Afiksasi Prefiks
+
+Kata: ajang
+Jenis: Kata dasar
+
+Kata: lomba
+Jenis: N/A (Tidak diketahui)
+
+Kata: rutin
+Jenis: Kata dasar
+
+Kata: diadakan
+Jenis: Afiksasi Prefiks
+
+Kata: setiap
+Jenis: Afiksasi Prefiks
+
+Kata: tahun
+Jenis: Kata dasar
+
+Kata: sana
+Jenis: Kata dasar
+
+Kata: tersebut
+Jenis: Afiksasi Prefiks
+
+Kata: menjalani
+Jenis: Afiksasi Prefiks
+
+Kata: tes
+Jenis: Kata dasar
+
+Kata: praktikum
+Jenis: N/A (Tidak diketahui)
+
+Kata: teori
+Jenis: Kata dasar
+
+Kata: bidang
+Jenis: Kata dasar
+
+Kata: Terdapat
+Jenis: Afiksasi Prefiks
+
+Kata: empat
+Jenis: Kata dasar
+
+Kata: topik
+Jenis: N/A (Tidak diketahui)
+
+Kata: harus
+Jenis: N/A (Tidak diketahui)
+
+Kata: selesaikan
+Jenis: Afiksasi konfiksasi
+
+Kata: selama
+Jenis: Kata dasar
+
+Kata: 90
+Jenis: N/A (Tidak diketahui)
+
+Kata: menit
+Jenis: Afiksasi Prefiks
+
+Kata: yakni
+Jenis: N/A (Tidak diketahui)
+
+Kata: tentang
+Jenis: N/A (Tidak diketahui)
+
+Kata: Mikrobiologi
+Jenis: N/A (Tidak diketahui)
+
+Kata: Molekuler;
+Jenis: Afiksasi Infiks
+
+Kata: Anatomi
+Jenis: N/A (Tidak diketahui)
+
+Kata: Sistematik
+Jenis: Kata dasar
+
+Kata: Evolusi
+Jenis: N/A (Tidak diketahui)
+
+Kata: Tumbuhan;
+Jenis: N/A (Tidak diketahui)
+
+Kata: Morfologi
+Jenis: N/A (Tidak diketahui)
+
+Kata: Fungsional
+Jenis: Kata dasar
+
+Kata: Hewan
+Jenis: Kata dasar
+
+Kata: Biokimia
+Jenis: N/A (Tidak diketahui)
+
+Kata: perwakilan
+Jenis: Kata dasar
+
+Kata: berkompetisi
+Jenis: Afiksasi Infiks
+
+Kata: 241
+Jenis: N/A (Tidak diketahui)
+
+Kata: 61
+Jenis: N/A (Tidak diketahui)
+
+Kata: bentuk
+Jenis: Kata dasar
+
+Kata: penghargaan
+Jenis: Afiksasi konfiksasi
+
+Kata: pemerintah
+Jenis: Kata dasar
+
+Kata: memberikan
+Jenis: Kata dasar
+
+Kata: beasiswa
+Jenis: N/A (Tidak diketahui)
+
+Kata: penuh
+Jenis: Kata dasar
+
+Kata: untuk
+Jenis: N/A (Tidak diketahui)
+
+Kata: melanjutkan
+Jenis: Afiksasi Prefiks
+
+Kata: perguruan
+Jenis: Afiksasi konfiksasi
+
+Kata: tinggi
+Jenis: Kata dasar
+
+Kata: masing-masing
+Jenis: Reduplikasi Kata Dasar
+
+Kata: Khusus
+Jenis: Kata dasar
+
+Kata: ditanggung
+Jenis: Afiksasi Prefiks
+
+Kata: sampai
+Jenis: Kata dasar
+
+Kata: doktoral
+Jenis: N/A (Tidak diketahui)
+
+Kata: S3
+Jenis: N/A (Tidak diketahui)
+
+Kata: sementara
+Jenis: Kata dasar
+
+Kata: pascasarjana
+Jenis: N/A (Tidak diketahui)
+
+Kata: S2
+Jenis: N/A (Tidak diketahui)
+
+Kata: artinya
+Jenis: N/A (Tidak diketahui)
+
+Kata: Fakultas
+Jenis: N/A (Tidak diketahui)
+
+Kata: Kedokteran
+Jenis: Kata dasar
+
+Kata: Universitas
+Jenis: Afiksasi Infiks
+
+Kata: Gadjah
+Jenis: N/A (Tidak diketahui)
+
+Kata: Mada
+Jenis: N/A (Tidak diketahui)
+
+Kata: UGM
+Jenis: N/A (Tidak diketahui)
+
+Kata: sedangkan
+Jenis: Afiksasi konfiksasi
+
+Kata: UI
+Jenis: N/A (Tidak diketahui)

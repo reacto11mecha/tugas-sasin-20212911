@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Tugas bahasa dan sastra indonesia kelas x bahasa tanggal 29 november 2021",
   "scripts": {
-    "test": "node tugas/artikel.js"
+    "artikel": "node tugas/artikel.js"
   },
   "repository": {
     "type": "git",

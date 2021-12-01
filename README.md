@@ -23,12 +23,13 @@ Untuk menjalankan, bisa menambahkan text dan file javascript baru ke folder `tug
 const path = require("path");
 const namaTugas = ""; // Nama file text tanpa ekstensi `.txt`
 
-const getResultAndWrite = require("../lib/getResultAndWrite");
+const getResultAndWrite = require("../lib");
 
 getResultAndWrite(
   path.join(__dirname, `${namaTugas}.txt`),
   path.join(__dirname, `${namaTugas}-simpulan.txt`),
-  path.join(__dirname, `${namaTugas}-simpulan.json`)
+  path.join(__dirname, `${namaTugas}-simpulan.json`),
+  path.join(__dirname, `${namaTugas}-disederhanakan.json`)
 );
 ```
 
